@@ -14,5 +14,8 @@ export default {
 }
 </script>
 
-<style lang="css">
+<style lang="scss" scoped>
+  .router-link-active {
+    color: red;
+  }
 </style>
